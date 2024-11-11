@@ -1,0 +1,44 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>levle0_217.jpg</filename>
+	<source>
+		<database>My Database</database>
+		<annotation>VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>NULL</flickrid>
+	</source>
+	<owner>
+		<flickrid>NULL</flickrid>
+		<name>xiaoxianyu</name>
+	</owner>
+	<size>
+		<width>3112</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fore</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1696</xmin>
+			<ymin>3125</ymin>
+			<xmax>1788</xmax>
+			<ymax>3324</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fore</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1888</xmin>
+			<ymin>3087</ymin>
+			<xmax>2072</xmax>
+			<ymax>3209</ymax>
+		</bndbox>
+	</object>
+</annotation>
